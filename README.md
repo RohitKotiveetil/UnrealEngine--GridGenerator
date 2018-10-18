@@ -2,7 +2,7 @@
 
 Grid Generation System created using blueprints in Unreal Engine v4.20.
 
-**Tech Demo:** https://www.youtube.com/watch?v=SbaqqPjsAKE
+**Preview Video:** https://www.youtube.com/watch?v=SbaqqPjsAKE
 
 ## Grid Generator Basics:
 - Use 'GridCountX' & 'GridCountY' variables in BP_GridGenerator actors to control the number of grid cells created along its local X & Y axis respectively.
